@@ -1,0 +1,135 @@
+Running Part 1...
+Part 1 Complete!
+
+Running Part 2...
+Part 2 Complete!
+
+Running Part 3...
+Minimum found at [[  6.80763797e-07   3.01956922e-05   1.04435244e-04 ...,  -4.48283445e-05
+    1.98460589e-04  -2.38103923e-04]] with cost function value of 0.0419727337978 on iteration 3369
+Cost for the validation set is: 0.419727337978
+Training set is 100.0% accurate
+Validation set is 95.0% accurate
+Testing set is 75.0% accurate
+Part 3 Complete!
+
+Running Part 4...
+Minimum found at [[ -1.80449643e-07  -5.38147815e-06  -8.38475676e-06 ...,   1.90012646e-04
+    1.82475301e-04   1.06938873e-04]] with cost function value of 0.0206196529755 on iteration 469
+Part 4 Complete!
+
+Running Part 5...
+Minimum found at [[ -3.03474137e-06   4.55245129e-04   4.47290202e-04 ...,  -4.56429193e-04
+   -2.75588940e-04  -3.26083029e-04]] with cost function value of 0.0125160995913 on iteration 2348
+For training set of size 60:
+Training set is 100.0% accurate
+Validation set is 90.0% accurate
+Testing set is 75.0% accurate
+
+Minimum found at [[ -3.21151352e-06   4.70412415e-04   3.07065090e-04 ...,  -3.45775522e-04
+   -1.39476073e-04  -7.24854449e-05]] with cost function value of 0.0364053788428 on iteration 3612
+For training set of size 120:
+Training set is 99.1666666667% accurate
+Validation set is 96.6666666667% accurate
+Testing set is 85.0% accurate
+
+Minimum found at [[ -3.66443770e-06   4.56268461e-04   2.92813951e-04 ...,  -4.95099320e-04
+   -8.06166283e-05   1.87309981e-04]] with cost function value of 0.0547274681447 on iteration 3465
+For training set of size 180:
+Training set is 99.4444444444% accurate
+Validation set is 98.3333333333% accurate
+Testing set is 83.3333333333% accurate
+
+Minimum found at [[ -4.42673049e-06   4.19265197e-04   2.99696579e-04 ...,  -4.34780186e-04
+   -1.22231671e-04   2.21818762e-06]] with cost function value of 0.0639899318247 on iteration 3333
+For training set of size 240:
+Training set is 99.1666666667% accurate
+Validation set is 98.3333333333% accurate
+Testing set is 85.0% accurate
+
+Minimum found at [[ -5.11140580e-06   5.70335105e-04   4.82430743e-04 ...,  -4.45895396e-04
+   -2.62862385e-04   4.32900853e-05]] with cost function value of 0.0727375175841 on iteration 3331
+For training set of size 300:
+Training set is 98.6666666667% accurate
+Validation set is 96.6666666667% accurate
+Testing set is 86.6666666667% accurate
+
+Minimum found at [[ -5.22418648e-06   5.78117066e-04   5.02516805e-04 ...,  -4.64446519e-04
+   -2.81956497e-04   5.85839228e-06]] with cost function value of 0.0755921666359 on iteration 3248
+For training set of size 360:
+Training set is 98.3333333333% accurate
+Validation set is 98.3333333333% accurate
+Testing set is 90.0% accurate
+
+Minimum found at [[ -4.89571401e-06   4.47790123e-04   4.28131125e-04 ...,  -3.94585249e-04
+   -2.41023302e-04   4.08865817e-05]] with cost function value of 0.0801034201224 on iteration 3210
+For training set of size 420:
+Training set is 97.8571428571% accurate
+Validation set is 98.3333333333% accurate
+Testing set is 91.6666666667% accurate
+
+Minimum found at [[ -3.59944050e-06   4.65126774e-04   3.93377435e-04 ...,  -3.40651486e-04
+   -1.97472794e-04   6.63474698e-05]] with cost function value of 0.0877833662506 on iteration 3153
+For training set of size 480:
+Training set is 97.7083333333% accurate
+Validation set is 98.3333333333% accurate
+Testing set is 90.0% accurate
+
+Minimum found at [[ -3.44472179e-06   4.87683710e-04   3.83120205e-04 ...,  -3.11265623e-04
+   -1.62909563e-04   9.71856382e-05]] with cost function value of 0.0904268591769 on iteration 3028
+For training set of size 540:
+Training set is 97.4074074074% accurate
+Validation set is 98.3333333333% accurate
+Testing set is 93.3333333333% accurate
+
+Minimum found at [[ -3.39417859e-06   5.09513578e-04   3.93590314e-04 ...,  -2.62134832e-04
+   -1.20781613e-04   6.89684937e-05]] with cost function value of 0.0927739673196 on iteration 3047
+For training set of size 600:
+Training set is 97.8333333333% accurate
+Validation set is 98.3333333333% accurate
+Testing set is 90.0% accurate
+
+Minimum found at [[ -3.39417859e-06   5.09513578e-04   3.93590314e-04 ...,  -2.62134832e-04
+   -1.20781613e-04   6.89684937e-05]] with cost function value of 0.0927739673196 on iteration 3047
+Testing on the set of other actors:
+Testing set is 87.9768786127% accurate
+Part 5 Complete!
+
+Running Part 6...
+Minimum found at [[  8.74465206e-07  -1.57996022e-07   7.05656037e-07   7.31652456e-08
+    1.71712721e-06   3.31238945e-06]
+ [  1.18494190e-04  -7.69766075e-05   1.98933784e-04  -2.30340196e-04
+   -6.70514431e-05   5.93270740e-06]
+ [ -5.83798104e-06  -3.24165650e-06   1.81479542e-04  -1.44162263e-04
+   -4.94730215e-05  -3.32330542e-05]
+ ..., 
+ [ -1.47842411e-04  -1.03129578e-05   2.48570298e-05  -5.86192390e-05
+    1.12243084e-04   1.07930302e-04]
+ [ -8.40001324e-05  -7.32417267e-05   8.98281409e-05  -1.61615206e-04
+    6.60622128e-05   1.69758296e-04]
+ [ -2.57448163e-06  -1.54162389e-04   1.81924672e-04  -1.77410961e-04
+    1.17079758e-04   1.69324980e-05]] with cost function value of 0.116199948422 on iteration 3550
+For h = 1e-05:
+The norm of the difference between the analytical and finite difference gradient is: 8.79824978211
+
+For h = 1e-06:
+The norm of the difference between the analytical and finite difference gradient is: 0.879824980611
+
+For h = 1e-07:
+The norm of the difference between the analytical and finite difference gradient is: 0.0879825181068
+
+For h = 1e-08:
+The norm of the difference between the analytical and finite difference gradient is: 0.00879848669397
+
+For h = 1e-09:
+The norm of the difference between the analytical and finite difference gradient is: 0.000882300676455
+
+Part 6 Complete!
+
+Running Part 7...
+Training set is 97.0% accurate
+Validation set is 95.0% accurate
+Part 7 Complete!
+
+Running Part 8...
+Part 8 Complete!
